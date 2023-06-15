@@ -1,0 +1,4 @@
+This is line is added to sample.txt
+This is line is added to sample.txt
+This is line is added to sample.txt
+This is line is added to sample.txt
